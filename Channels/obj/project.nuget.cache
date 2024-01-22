@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/MDtK+VQzZ5JA+HPzPvWeNvOwHJ3Uv94McZSq7uu5H92rtzr5wbu42nF+d+JbN0dEMTLf3OwNKtRWzvFgyiKRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\falco\\OneDrive\\Documents\\Channels\\Channels\\Channels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\falco\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\falco\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\falco\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\falco\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\falco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\falco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
